@@ -1,0 +1,7 @@
+*.pt
+*.pth
+chunks.json
+starter/data/
+starter/results/
+__pycache__/
+.ipynb_checkpoints/
