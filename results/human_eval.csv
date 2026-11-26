@@ -1,0 +1,41 @@
+image_no,true_character,member1_guess,member1_correct,rag_question_no,rag_qid,member1_supported,member1_rag_correct
+1,hamza,ghain,0,1,2565,1,1
+2,rhraa,ayn,0,2,2948,0,0
+3,zaaa,laam,0,3,911,0,0
+4,choti yaa,faa,0,4,767,1,1
+5,ayn,zaal,0,5,375,1,1
+6,zhaa,alif,0,6,2240,0,0
+7,daal,bari yaa,0,7,825,1,1
+8,qaaf,taa,0,8,642,1,1
+9,zaal,jeem,0,9,4212,1,1
+10,haa2,zhaa,0,10,2300,1,1
+11,zwaa,laam,0,11,641,1,1
+12,bari yaa,khaa,0,12,181,1,1
+13,seey,noonghunna,0,13,1156,0,0
+14,haa1,rhraa,0,14,3886,1,1
+15,baa,choti yaa,0,15,4121,1,1
+16,meem,noon,0,16,876,1,1
+17,waw,zaal,0,17,2930,0,1
+18,kaaf,rhraa,0,18,873,1,1
+19,ghain,rhraa,0,19,4009,1,1
+20,jeem,noonghunna,0,20,1250,1,0
+21,dhaal,faa,0,,,,
+22,noon,noon,1,,,,
+23,seen,zaal,0,,,,
+24,ttaa,cheey,0,,,,
+25,alif,hamza,0,,,,
+26,twa,gaaf,0,,,,
+27,raa,swaad,0,,,,
+28,faa,bari yaa,0,,,,
+29,laam,baa,0,,,,
+30,alif mad aa,meem,0,,,,
+31,taa,cheey,0,,,,
+32,paa,zwaad,0,,,,
+33,haa3,ttaa,0,,,,
+34,gaaf,haa3,0,,,,
+35,khaa,alif mad aa,0,,,,
+36,swaad,cheey,0,,,,
+37,noonghunna,cheey,0,,,,
+38,zwaad,meem,0,,,,
+39,cheey,gaaf,0,,,,
+40,sheen,zwaa,0,,,,
