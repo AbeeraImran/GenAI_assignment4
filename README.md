@@ -2,9 +2,9 @@
 
 Four generative models and one app for the Generative AI course (Fall 2026). This is a solo submission, not a group of two, so there is one author and one human evaluator.
 
-- Medium blog: PASTE_BLOG_LINK_HERE
-- LinkedIn post: PASTE_LINKEDIN_LINK_HERE
-- Trained weights (Google Drive): PASTE_WEIGHTS_LINK_HERE
+- Medium blog: https://medium.com/@abeera.syal989/four-ways-to-generate-building-a-mae-a-vae-a-diffusion-model-and-a-rag-system-in-one-assignment-4926da396577
+- LinkedIn post: https://lnkd.in/p/dZti78xm
+- Trained weights (Google Drive): https://drive.google.com/drive/folders/1dsGPZ2HSGrP50xHI8IhqNjcFAmmHPxyH?usp=drive_link
 
 ## What is in this repo
 
